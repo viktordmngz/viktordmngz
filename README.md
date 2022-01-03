@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Viktor
 - 🌱 I’m just learning how to code! I am a newbie for now.
-- 💞️ I’m looking to collaborate on any beginner projects or any tutorials, especially in HTML and Java.
+- 💼 I’m looking to collaborate on any beginner projects or any tutorials, especially in HTML and Java.
 - 📫 How to reach me --> viktordmngz@yahoo.com (Use GitHub as a subject line so I know you come from here :D)
 
 <!---

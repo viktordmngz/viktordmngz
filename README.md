@@ -1,6 +1,6 @@
 - 👋 Welcome to my Github page
 - 🌱 Currently learning: R
-- 💼 Current Project: Yu-Gi-Oh: Lifepoint tracker for 2 players
+- 💼 Current Project: Florida Panthers Game Logs and Analysis; Yu-Gi-Oh: Lifepoint tracker for 2 players
 - 📫 How to reach me --> viktordmngz@yahoo.com (Use GitHub as a subject line so I know you come from here :D)
 
 <!---

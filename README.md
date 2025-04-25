@@ -1,6 +1,6 @@
 - 👋 Welcome to my Github page
-- 🌱 Currently learning: Front End Development
-- 💼 Current Project: Florida Panthers Game Logs and Analysis; Creating pricing cards for websites; Creating horizontal navbars and dropdown navigation lists
+- 🌱 Currently learning: Python; OOP in Python
+- 💼 Current Project: Florida Panthers Game Logs and Analysis; Terminal games (Latest: Yahtzee) 
 - 📫 How to reach me --> viktordmngz@yahoo.com (Use GitHub as a subject line so I know you come from here :D)
 
 <!---
